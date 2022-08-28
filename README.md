@@ -1,11 +1,11 @@
 # ShanCsv
 A Python Package for CSV File Parsing and Rendering
 ## How to install
-Install the `ShanCsv` module using [`pip`](https://pip.pypa.io/en/stable/)
+Install the [`ShanCsv`](https://pypi.org/project/ShanCsv/) module using [`pip`](https://pip.pypa.io/en/stable/)
 ```bash
 pip install ShanCsv
 ```
-Then import the `ShanCsv` module into your program
+Then import the [`ShanCsv`](https://pypi.org/project/ShanCsv/) module into your program
 ```python
 import ShanCsv
 ```
