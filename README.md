@@ -1,8 +1,4 @@
-# ShanCsv
-[![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
-[![Pip latest](https://img.shields.io/badge/pip-latest-blue)](https://pip.pypa.io/en/stable/)
-[![license](https://img.shields.io/badge/license-MIT-green)](https://github.com/Ninjago77/ShanCsv/blob/main/LICENSE)
----
+# ShanCsv <br/>[![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/) [![Pip latest](https://img.shields.io/badge/pip-latest-blue)](https://pip.pypa.io/en/stable/) [![license](https://img.shields.io/badge/license-MIT-green)](https://github.com/Ninjago77/ShanCsv/blob/main/LICENSE)
 A Python Package for CSV File Parsing and Rendering
 ## How to install
 Install the [`ShanCsv`](https://pypi.org/project/ShanCsv/) module using [`pip`](https://pip.pypa.io/en/stable/)
