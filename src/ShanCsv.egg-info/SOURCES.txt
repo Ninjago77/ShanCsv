@@ -1,0 +1,11 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+src/ShanCsvExceptions.py
+src/__init__.py
+src/backend.py
+src/ShanCsv.egg-info/PKG-INFO
+src/ShanCsv.egg-info/SOURCES.txt
+src/ShanCsv.egg-info/dependency_links.txt
+src/ShanCsv.egg-info/top_level.txt
