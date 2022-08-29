@@ -53,3 +53,5 @@ c = shancsv.Csv(text)
 data = c.getList() # data is a 2-dimensional list
 text = str(c)
  ```
+ ## Contributing
+ [Pull Requests](https://github.com/Ninjago77/ShanCsv/pulls), [Bug Reports](https://github.com/Ninjago77/ShanCsv/issues) and feedback are allowed and are really helpful.
